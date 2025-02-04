@@ -18,9 +18,9 @@ The dataset (`balochistan_cleaned_all.csv`) consists of **monthly incident count
 **📌 Source:** [ACLED – Armed Conflict Location & Event Data Project](https://acleddata.com/)  
 
 ## How I did it?
-**Used pandas to clean a larger dataset from ACLED containing data from 2018 till January 2025 of all regions in Asia Pacific.**
-**Further cleaned Balochistan data to get just the month and number of attacks.**
-**Used R for visualizations.**
+-Used **pandas** to clean a larger dataset from ACLED containing data from 2018 till January 2025 of all regions in Asia Pacific.**
+-Further cleaned Balochistan data to get just the month and number of attacks.**
+-Used **R** for visualizations.**
 
 
 ### ⚠️ Context:  
