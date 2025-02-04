@@ -5,7 +5,7 @@
 This repository contains the dataset, R code, and visualization for my **"In One Chart"** assignment, which examines the **rise in separatist violence in Balochistan** over the past few years. Using data from the **Armed Conflict Location & Event Data Project (ACLED)**, this analysis highlights key trends, particularly **spikes in violence during Pakistan's 2024 general elections** and **Independence Month (August 2024).**    
 
 ## Data  
-The dataset (`balochistan_cleaned.csv`) consists of **monthly incident counts** of separatist attacks in Balochistan from **2020 to 2024**. The data includes:  
+The dataset (`balochistan_cleaned_all.csv`) consists of **monthly incident counts** of separatist attacks in Balochistan from **2020 to 2024**. The data includes:  
 
 - 📅 **Date (Month-Year)**  
 - 🔥 **Number of Violent Incidents**  
